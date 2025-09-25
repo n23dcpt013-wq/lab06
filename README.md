@@ -24,4 +24,4 @@ Quy ước/giả định
  
 ![class](https://github.com/n23dcpt013-wq/lab06/blob/main/atm%20class.png)
 
-![package]()
+![package](https://github.com/n23dcpt013-wq/lab06/blob/main/package.png)
